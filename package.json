@@ -89,5 +89,6 @@
       "prettier -w"
     ]
   },
+
   "packageManager": "pnpm@10.14.0"
 }
